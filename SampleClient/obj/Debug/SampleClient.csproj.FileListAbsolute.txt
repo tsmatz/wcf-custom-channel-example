@@ -1,0 +1,11 @@
+C:\Demo\WCFBakaChannelDemo\SampleClient\bin\Debug\SampleClient.exe.config
+C:\Demo\WCFBakaChannelDemo\SampleClient\bin\Debug\SampleClient.exe
+C:\Demo\WCFBakaChannelDemo\SampleClient\bin\Debug\SampleClient.pdb
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\SampleClient.Form1.resources
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\SampleClient.Properties.Resources.resources
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\SampleClient.csproj.GenerateResource.Cache
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\SampleClient.exe
+C:\Demo\WCFBakaChannelDemo\SampleClient\obj\Debug\SampleClient.pdb
+C:\Demo\WCFBakaChannelDemo\SampleClient\bin\Debug\BakaChannel.dll
+C:\Demo\WCFBakaChannelDemo\SampleClient\bin\Debug\BakaChannel.pdb

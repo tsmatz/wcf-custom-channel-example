@@ -1,0 +1,5 @@
+C:\Demo\WCFBakaChannelDemo\BakaChannel\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\WCFBakaChannelDemo\BakaChannel\bin\Debug\BakaChannel.dll
+C:\Demo\WCFBakaChannelDemo\BakaChannel\bin\Debug\BakaChannel.pdb
+C:\Demo\WCFBakaChannelDemo\BakaChannel\obj\Debug\BakaChannel.dll
+C:\Demo\WCFBakaChannelDemo\BakaChannel\obj\Debug\BakaChannel.pdb

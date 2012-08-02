@@ -1,0 +1,8 @@
+C:\Demo\WCFBakaChannelDemo\SampleServer\bin\Debug\SampleServer.exe.config
+C:\Demo\WCFBakaChannelDemo\SampleServer\bin\Debug\SampleServer.exe
+C:\Demo\WCFBakaChannelDemo\SampleServer\bin\Debug\SampleServer.pdb
+C:\Demo\WCFBakaChannelDemo\SampleServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\WCFBakaChannelDemo\SampleServer\obj\Debug\SampleServer.exe
+C:\Demo\WCFBakaChannelDemo\SampleServer\obj\Debug\SampleServer.pdb
+C:\Demo\WCFBakaChannelDemo\SampleServer\bin\Debug\BakaChannel.dll
+C:\Demo\WCFBakaChannelDemo\SampleServer\bin\Debug\BakaChannel.pdb
